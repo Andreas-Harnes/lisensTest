@@ -1,2 +1,2 @@
 # lisensTest
-Repo for å teste script
+Repo for å teste script. 🎅🏻
